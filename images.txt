@@ -1,1 +1,1 @@
-jenkins/jenkins:2.456-slim-jdk11
+nginx:1.26.1
