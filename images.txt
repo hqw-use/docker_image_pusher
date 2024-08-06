@@ -1,1 +1,1 @@
-apache/rocketmq:5.1.2
+jenkins/jenkins:2.456-slim-jdk11
