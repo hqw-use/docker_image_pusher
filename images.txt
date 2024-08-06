@@ -1,1 +1,1 @@
-sanjusss/aliyun-ddns:0.2.7.3-linux-arm32v7
+openjdk:11.0.15-jre
