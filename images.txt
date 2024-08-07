@@ -1,1 +1,1 @@
-jenkins/jenkins:2.470
+gitlab/gitlab-ce:latest
